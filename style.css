@@ -140,6 +140,8 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    border-bottom: solid 3px white;
+    margin-bottom: 20px;
 }
 /*[class*="char-"] {
     padding: 20px 0px;
