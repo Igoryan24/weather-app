@@ -56,6 +56,7 @@ body {
     padding: 0px;
 }
 .form {
+    margin-top: 15px;
     display: flex;
     justify-content: flex-start;
     flex-direction: row;
